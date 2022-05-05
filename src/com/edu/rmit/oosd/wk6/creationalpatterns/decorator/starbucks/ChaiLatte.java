@@ -1,4 +1,4 @@
-package com.edu.rmit.oosd.wk6.creationalpatterns.decorator.starbucks.uml;
+package com.edu.rmit.oosd.wk6.creationalpatterns.decorator.starbucks;
 
 import com.edu.rmit.oosd.wk6.creationalpatterns.decorator.starbucks.Beverage;
 import com.edu.rmit.oosd.wk6.creationalpatterns.decorator.starbucks.Decorator;

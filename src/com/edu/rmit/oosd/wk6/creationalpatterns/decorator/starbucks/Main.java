@@ -1,7 +1,5 @@
 package com.edu.rmit.oosd.wk6.creationalpatterns.decorator.starbucks;
 
-import com.edu.rmit.oosd.wk6.creationalpatterns.decorator.starbucks.uml.ChaiLatte;
-
 public class Main {
 
     public static void main(String[] args) {

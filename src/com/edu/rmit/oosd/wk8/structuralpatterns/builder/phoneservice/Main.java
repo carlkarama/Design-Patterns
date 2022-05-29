@@ -1,4 +1,4 @@
-package com.edu.rmit.oosd.wk6.creationalpatterns.builder.phoneservice;
+package com.edu.rmit.oosd.wk8.structuralpatterns.builder.phoneservice;
 
 public class Main {
 

@@ -15,7 +15,7 @@ public class Product {
     }
 
     public void show() {
-        System.out.println("\nProduct completed as below");
+        System.out.println("\nSceneProduct completed as below");
 
         for (String part : this.parts) {
             System.out.println(part);

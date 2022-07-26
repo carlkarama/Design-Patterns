@@ -1,7 +1,4 @@
-package com.edu.rmit.oosd.wk6.creationalpatterns;
-
-import com.edu.rmit.oosd.wk6.creationalpatterns.builder.vehicle.BuilderInterface;
-import com.edu.rmit.oosd.wk6.creationalpatterns.builder.vehicle.Product;
+package com.edu.rmit.oosd.wk6.creationalpatterns.builder.vehicle;
 
 public class Motorcycle implements BuilderInterface {
 

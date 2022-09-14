@@ -14,4 +14,21 @@ by increasing flexibility and re-use of code. Some patterns include
 
 ### Structural Patterns
 
+Structural patterns identify relationships between classes with the aim of composing classes into
+larger structures
+- Decorator pattern
+- Facade pattern
+- Bridge pattern
+- Adapter pattern
+- Composite pattern
+
 ### Behavioural Patterns
+Behavioural patterns identify communication patterns between objects and realise these 
+patterns in order to increase flexibility. 
+- Observer pattern
+- State pattern
+- Strategy pattern
+- Mediator pattern
+- Command Pattern
+- Iterator pattern
+- Visitor pattern

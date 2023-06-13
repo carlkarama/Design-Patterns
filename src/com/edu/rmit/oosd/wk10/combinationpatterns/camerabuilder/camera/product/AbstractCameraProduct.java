@@ -1,4 +1,4 @@
-package com.edu.rmit.oosd.wk6.creationalpatterns.builder.camerabuilder.camera.product;
+package com.edu.rmit.oosd.wk10.combinationpatterns.camerabuilder.camera.product;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -5,7 +5,7 @@ import com.edu.rmit.oosd.wk6.creationalpatterns.builder.camerabuilder.camera.pro
 
 public class ArriCameraBuilderImpl extends AbstractCameraBuilder<ArriCameraBuilderImpl> {
 
-    AbstractCameraProduct<ArriCameraBuilderImpl> product = new CameraProduct();
+    AbstractCameraProduct<ArriCameraBuilderImpl> product = new CameraProduct<ArriCameraBuilderImpl>();
     @Override
     public ArriCameraBuilderImpl cost() {
         /**

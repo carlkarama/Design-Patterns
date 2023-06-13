@@ -1,7 +1,7 @@
-package com.edu.rmit.oosd.wk6.creationalpatterns.builder.camerabuilder.camera.builder;
+package com.edu.rmit.oosd.wk10.combinationpatterns.camerabuilder.camera.builder;
 
-import com.edu.rmit.oosd.wk6.creationalpatterns.builder.camerabuilder.camera.product.AbstractCameraProduct;
-import com.edu.rmit.oosd.wk6.creationalpatterns.builder.camerabuilder.camera.product.CameraProduct;
+import com.edu.rmit.oosd.wk10.combinationpatterns.camerabuilder.camera.product.AbstractCameraProduct;
+import com.edu.rmit.oosd.wk10.combinationpatterns.camerabuilder.camera.product.CameraProduct;
 
 public class ArriCameraBuilderImpl extends AbstractCameraBuilder<ArriCameraBuilderImpl> {
 
